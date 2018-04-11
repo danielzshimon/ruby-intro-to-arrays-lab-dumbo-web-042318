@@ -2,6 +2,6 @@ instantiate_new_array
   [] 
 end 
 
-array_with_two_elements()
+array_with_two_elements
 
 end
